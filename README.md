@@ -1,2 +1,2 @@
-# NBA_shot_chart
+# Chef Curry's Shot Chart
 
