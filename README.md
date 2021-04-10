@@ -3,8 +3,7 @@
 ---
 
 
-![Curry](Images/Curry_pic.jpg=100x20)
-
+![Curry](Images/Curry_pic.jpg)
 
 
 ---
