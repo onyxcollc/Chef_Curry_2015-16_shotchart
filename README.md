@@ -2,7 +2,8 @@
 
 ---
 
-![Curry](Images/Curry_pic.jpg " width ="800"/)
+<img src="Images/Curry_pic.jpg " width ="800" />
+
 
 ---
 
