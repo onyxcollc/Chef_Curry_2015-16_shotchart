@@ -15,4 +15,4 @@ My last project we went on a journey in discovering the pure dominance of LeBron
 402 is the number I want us to focus on; using nba_api, phyton, matplotlib library, seaborn library, and tableau, I’ll show a different perspective on why that number is out of this world. 
 
 
-![Curry](Images/3pt_leaders.jpg)
+![Curry](Images/3pt_leaders.PNG)
