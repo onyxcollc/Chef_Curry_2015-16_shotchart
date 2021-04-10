@@ -64,7 +64,7 @@ So now that you understand Stephen Curry’s greatness, let us look at where exa
 ---
 
 
-[nba_api](https://github.com/swar/nba_api) helps to collect data from NBA’s data warehouse. Then used matplotlib library to create a basketball shot chart. For the heat map I used seaborn, it helped showing the shot chart in a different way.
+[nba_api](https://github.com/swar/nba_api) helps to collect data from NBA’s data warehouse. Then I used matplotlib library to create a basketball shot chart. For the heat map I used seaborn, it helped showing the shot chart in a different way.
 
 ```
 # Data and NBA API
