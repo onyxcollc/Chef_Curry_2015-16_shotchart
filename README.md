@@ -34,6 +34,19 @@ So now that you understand Stephen Curry’s greatness, let us look at where exa
 
 <img src="Images/Curry_Shot_Chart.PNG" width ="800" />  <img src="Images/Allen_Shot_Chart.PNG" /> 
 
+---
+
+#### NBA Shot Zones
+
+<img src="Images/Curry_Shot_Zones.PNG" width ="800" />  <img src="Images/Allen_Shot_Zones.PNG" />
+
+---
+
+#### NBA Heat Map
+
+
+<img src="Images/Curry_Heat_Map.PNG" width ="800" />  <img src="Images/Allen_Heat_Map.PNG" />
+
 
 
 
