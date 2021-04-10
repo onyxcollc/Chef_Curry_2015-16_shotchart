@@ -2,7 +2,9 @@
 
 ---
 
-<img src="Images/Curry_pic.jpg " width ="800" />
+
+![Curry](Images/Curry_pic.jpg =100x20)
+
 
 
 ---
