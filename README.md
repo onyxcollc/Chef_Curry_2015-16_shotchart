@@ -2,7 +2,7 @@
 
 ---
 
-![Curry](Images/Curry_pic.jpg " width ="800")
+![Curry](Images/Curry_pic.jpg " width ="800"/)
 
 ---
 
