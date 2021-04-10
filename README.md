@@ -27,5 +27,13 @@ Players like James Harden (ranked 2nd & 5th), Paul George (ranked 6th), Damian L
 
 ---
 
+#### NBA Shot Chart
+
+So now that you understand Stephen Curry’s greatness, let us look at where exactly Curry likes to shoot the ball compared to Ray Allen’s shot choice since the torch was passed down between those two. 
+
+
+<img src="Images/Curry_Shot_Chart.PNG" width ="800" />
+
+
 
 
