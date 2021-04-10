@@ -3,7 +3,7 @@
 ---
 
 
-![Curry](Images/Curry_pic.jpg)
+![Curry](Images/Curry_pic_2.jpg)
 
 
 ---
