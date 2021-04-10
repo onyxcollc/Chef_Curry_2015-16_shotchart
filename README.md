@@ -29,11 +29,12 @@ Players like James Harden (ranked 2nd & 5th), Paul George (ranked 6th), Damian L
 
 #### NBA Shot Chart
 
+So now that you understand Stephen Curry’s greatness, let us look at where exactly Curry likes to shoot the ball compared to Ray Allen’s shot choice since the torch was passed down between those two. 
+
+
  [Link to Curry Shot Chart Code ](Curry_shot_chart.ipynb)
  
- [Link to Allen Shot Chart COde](Curry_shot_chart.ipynb)
-
-So now that you understand Stephen Curry’s greatness, let us look at where exactly Curry likes to shoot the ball compared to Ray Allen’s shot choice since the torch was passed down between those two. 
+ [Link to Allen Shot Chart Code](Allen_shot_chart.ipynb)
 
 
 <img src="Images/Curry_Shot_Chart.PNG" width ="800" />  <img src="Images/Allen_Shot_Chart.PNG" /> 
@@ -41,6 +42,10 @@ So now that you understand Stephen Curry’s greatness, let us look at where exa
 ---
 
 #### NBA Shot Zones
+
+ [Link to Curry Shot Chart Code ](Curry_shot_chart.ipynb)
+ 
+ [Link to Allen Shot Chart Code](Allen_shot_chart.ipynb)
 
 <img src="Images/Curry_Shot_Zones.PNG" width ="800" />  <img src="Images/Allen_Shot_Zones.PNG" />
 
