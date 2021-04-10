@@ -53,9 +53,12 @@ So now that you understand Stephen Curry’s greatness, let us look at where exa
 
 #### NBA Heat Map
 
+ [Link to Curry Shot Chart Code ](Curry_shot_chart.ipynb)
+ 
+ [Link to Allen Shot Chart Code](Allen_shot_chart.ipynb)
+
 
 <img src="Images/Curry_Heat_Map.PNG" width ="800" />  <img src="Images/Allen_Heat_Map.PNG" />
-
 
 
 
