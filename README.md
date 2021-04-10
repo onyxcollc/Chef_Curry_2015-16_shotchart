@@ -59,3 +59,35 @@ So now that you understand Stephen Curry’s greatness, let us look at where exa
 
 
 
+[NBA_api](https://github.com/swar/nba_api) helps to collect data from NBA’s data warehouse. Which I was able to collect, then used matplotlib library to create a basketball shot chart. 
+
+```
+# Data and NBA API
+import pandas as pd
+import numpy as np
+
+from scipy.stats import norm, gaussian_kde, percentileofscore
+
+pd.options.display.max_columns = None
+from nba_api.stats.static import players
+from nba_api.stats.endpoints import shotchartdetail
+from nba_api.stats.endpoints import playercareerstats
+
+# For Shot Chart
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from matplotlib import cm
+from matplotlib.patches import Circle, Rectangle, Arc, ConnectionPatch
+from matplotlib.patches import Polygon
+from matplotlib.collections import PatchCollection
+from matplotlib.colors import LinearSegmentedColormap, ListedColormap, BoundaryNorm
+from matplotlib.path import Path
+from matplotlib.patches import PathPatch
+
+sns.set_style('white')
+sns.set_color_codes()
+
+```
+
+
