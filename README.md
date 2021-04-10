@@ -3,7 +3,7 @@
 ---
 
 
-![Curry](Images/Curry_pic.jpg =100x20)
+![](Images/Curry_pic.jpg =100x20)
 
 
 
