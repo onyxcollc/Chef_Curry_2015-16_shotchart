@@ -24,20 +24,22 @@ My last project we went on a journey in discovering the pure dominance of LeBron
 Using Tableau, I was able create a scatter plot that showed the top 14 all-time 3pt leaders in a single season.  In the years leading up to Ray Allen’s record breaking 2005-06 NBA season, Allen (ranked 14th) at that time was a great 3pt shooter (right next to Reggie Miller) that we’ve ever seen, with 269 threes made.  That record would stand the test of time until Stephen Curry (ranked 1st, 3rd, 4th, 7th & 10th) stepped on the court in the 2012-13 season. It only took 6 years to break Allen’s record; Curry ending the season with 272 threes made. After the 2013-14 season Curry followed his 2012-13 performance with another record-breaking 2014-15 season with 286 threes made, just 2 years after his first attempt. Klay Thompson (ranked 9th) tried to keep up with Curry in his yet again another record breaking 2015-16 season with 276 threes made, but nowhere close to Curry’s 402 threes made.
 
 
-Players like James Harden (ranked 2nd & 5th), Paul George (ranked 6th), Damian Lillard (ranked 12th), Buddy Hield (ranked 8th, 11th) needed to step there game up to even compete, and this was in the 2019-20 season, so that meant Curry reigned supreme for 5 consecutive years as 3pt King. Harden is the only player to have had a breakout season in 2018-19 with 378 threes made. Curry’s 2014-15 season was better then some players on the list competing in 2019-20 season.  
+Players like James Harden (ranked 2nd & 5th), Paul George (ranked 6th), Damian Lillard (ranked 12th), Buddy Hield (ranked 8th, 11th) needed to step there game up to even compete, and this was in the 2019-20 season, so that meant Curry reigned supreme for 5 consecutive years as 3pt King. Harden is the only player to have had a breakout season in 2018-19 with 378 threes made.If you look a little closer you see that Curry’s 2014-15 performance was better then some players on the list competing in the 2019-20 season.  
 
 
 ---
 
 #### NBA Shot Chart
 
-So now that you understand Stephen Curry’s greatness, let us look at where exactly Curry likes to shoot the ball compared to Ray Allen’s shot choice since the torch was passed down between those two. 
+Now that you have some understandig why Stephen Curry is called "the baby face asassin", let us look at where exactly Curry likes to shoot the ball compared to Ray Allen’s shot choice since the torch was passed down between those two. 
 
 
  [Link to Curry Shot Chart Code ](Curry_shot_chart.ipynb)
  
  [Link to Allen Shot Chart Code](Allen_shot_chart.ipynb)
-
+ 
+ 
+  
 
 <img src="Images/Curry_Shot_Chart.PNG" width ="800" />  <img src="Images/Allen_Shot_Chart.PNG" /> 
 
@@ -94,7 +96,28 @@ from matplotlib.patches import PathPatch
 
 sns.set_style('white')
 sns.set_color_codes()
-
 ```
 
+---
+
+#### Conclusion
+
+The graphs show a clear picture on the shot selections of both players. Interesting to see how close Ray was to the 3pt line, but Curry took his shooting range to another level which literally changed the game of basketball today. Before Curry NBA teams where averaging about 4 threes pregame, Curry averages 5.1 threes per game, by himself. After Curry NBA teams are now averaging 8.5 threes per game, A drastic uptick on performance in the entire league.  2003-04 season there where 368 30pt+ performances compared to the 2019-20 season with 775 30pt+ performances. Over the last few years, the NBA has seen an explosion in scoring, from all time greats sleeping walking there way to 30pts, to average players putting up career numbers on a nightly basis. Other factors have contributed to the high scoring, but you would have missed the point if your first thought wasn’t Stephen Curry.
+
+Until next time….
+
+---
+
+
+#### Acknowledgments
+
+* https://github.com/savvastj for the draw_court function.
+* https://github.com/swar for the nba_api.
+* https://github.com/hkair was my inspiration learned alot from this page. 
+
+---
+
+### Created by
+
+__Nicholas Olumese__, Profile: [LinkedIn](https://www.linkedin.com/in/nicholas-olumese/)
 
