@@ -117,7 +117,7 @@ Until next time….
 
 ---
 
-### Created by
+### Created By
 
 __Nicholas Olumese__, Profile: [LinkedIn](https://www.linkedin.com/in/nicholas-olumese/)
 
